@@ -1,0 +1,5 @@
+- 👋 Hi, I’m muzamil
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning ML algorithm
+- 💞️ I’m looking to collaborate on projects 
+- 😄 Pronouns: he
