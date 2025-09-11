@@ -22,10 +22,9 @@
 </p>
 
 
-
-<h1 align="center">Hi , I'm Nasir Sharif</h1> 
+<h1 align="center">Hi 👋, I'm Muzammil Khan</h1>
 <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt ="Gradiant Line" width="1000">
-<h3 align="center">A passionate Cyber Security | AI | Machine Learning Enthusiast from Pakistan <br> <br> <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Flag_of_Pakistan.svg.webp" alt="Pakistan Badge" width="100" /> 
+<h3 align="center">BS Information Technology Student | Data Analytics | Python Developer<br> <br> <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Flag_of_Pakistan.svg.webp" alt="Pakistan Badge" width="100" /> 
 </h3> 
 
 <p align="center">
@@ -58,10 +57,9 @@
 ### About Me:  
 
 <!--
-I'm a passionate Cyber Security with a knack for Remote Access Trojan, Malwares, specializing in RAT's and Offensive Security Tools. I thrive on tackling System Malware Analysis and removal of Backdoor Sessions tasks and exploring the fascinating realm of Latest Cybersecurity Tools and Techniques. Additionally, I have a strong foundation in Networking and Python.
--->
-Currently, I'm delving into the realms of Cyber threats, Diving into the RedHat Certifications and Building strong foundation in Python at Navttc at NTS where I'm actively engaged in crafting and analyzing Coding and Automation of tools. During my leisure time, you'll find me honing my problem-solving skills, participating in hackathons challenges and also Building my Mental and physical Fitness.
-       
+### 🎯 Career Objective
+Motivated BS Information Technology student with hands-on experience in Python programming, data analytics, and customer service. Skilled in problem-solving, data visualization, and teamwork, with a strong academic record. Seeking opportunities to apply technical expertise and analytical skills to contribute effectively in IT and data-driven roles.
+
    
 ### Social media: 📡    
 Join me on LinkedIn, Instagram, Facebook and Snapchat where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
