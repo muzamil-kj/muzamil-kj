@@ -80,16 +80,6 @@ Motivated BS Information Technology student with hands-on experience in Python p
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-ki&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-ki&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-ki&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
 
 <footer align="center">
   &copy; 2025 Muzammil Khan. All rights reserved.
