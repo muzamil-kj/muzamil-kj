@@ -1,212 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muzammil Khan | Data Analyst & Python Developer</title>
-    <style>
-        :root {
-            --primary: #2563eb;
-            --dark: #1e293b;
-            --light: #f8fafc;
-            --gray: #64748b;
-        }
-        body {
-            font-family: 'Segoe UI', system-ui, sans-serif;
-            line-height: 1.6;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-            background: #fefefe;
-            color: #333;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
-            border-bottom: 2px solid #e2e8f0;
-        }
-        h1 {
-            color: var(--dark);
-            font-size: 2.8rem;
-            margin-bottom: 0.5rem;
-        }
-        .tagline {
-            color: var(--primary);
-            font-size: 1.4rem;
-            font-weight: 500;
-        }
-        .highlight {
-            background: linear-gradient(120deg, #e0f2fe 0%, #fef3c7 100%);
-            padding: 2rem;
-            border-radius: 12px;
-            margin: 2rem 0;
-            border-left: 5px solid var(--primary);
-        }
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin: 2rem 0;
-        }
-        .tech-card {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-            border: 1px solid #e2e8f0;
-        }
-        .project {
-            background: white;
-            margin: 2rem 0;
-            padding: 1.8rem;
-            border-radius: 12px;
-            box-shadow: 0 6px 16px rgba(0,0,0,0.05);
-            border-left: 4px solid var(--primary);
-        }
-        .badge {
-            display: inline-block;
-            background: #e0f2fe;
-            color: var(--primary);
-            padding: 0.3rem 0.8rem;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            margin: 0.3rem;
-            font-weight: 500;
-        }
-        footer {
-            text-align: center;
-            margin-top: 4rem;
-            padding-top: 2rem;
-            border-top: 1px solid #e2e8f0;
-            color: var(--gray);
-        }
-        @media (max-width: 768px) {
-            body { padding: 1rem; }
-            h1 { font-size: 2.2rem; }
-            .tech-grid { grid-template-columns: 1fr; }
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Muzammil Khan</h1>
-        <p class="tagline">Data Analyst | Python Developer | Machine Learning Enthusiast</p>
-        <p>BS Information Technology @ NUML | CGPA: 3.52</p>
-    </header>
+# 👋 Hi, I'm Muzammil Khan
 
-    <section class="highlight">
-        <h2>👨‍💻 About Me</h2>
-        <p>Data-focused IT student passionate about transforming raw data into actionable intelligence. I specialize in building end-to-end data pipelines—from cleaning and exploration to predictive modeling and visualization. My work centers on applying statistical methods and machine learning to solve real-world problems with clarity and impact.</p>
-        <p><strong>Currently seeking:</strong> Data Analyst, Business Intelligence, or Machine Learning Internship roles.</p>
-    </section>
+### **Data Analyst | Python Developer | Machine Learning Enthusiast**
+*BS Information Technology @ NUML | CGPA: 3.52 | Islamabad, Pakistan*
 
-    <section>
-        <h2>🛠 Technical Stack</h2>
-        <div class="tech-grid">
-            <div class="tech-card">
-                <h3>Core Languages</h3>
-                <span class="badge">Python</span>
-                <span class="badge">SQL</span>
-                <p>Proficient in data manipulation, analysis, and scripting.</p>
-            </div>
-            <div class="tech-card">
-                <h3>Data Science Libraries</h3>
-                <span class="badge">Pandas</span>
-                <span class="badge">NumPy</span>
-                <span class="badge">Scikit-learn</span>
-                <span class="badge">Matplotlib</span>
-                <p>Experienced in data wrangling, statistical modeling, and visualization.</p>
-            </div>
-            <div class="tech-card">
-                <h3>Tools & Platforms</h3>
-                <span class="badge">Git & GitHub</span>
-                <span class="badge">Jupyter Notebook</span>
-                <span class="badge">Excel</span>
-                <p>Version control, interactive analysis, and reporting.</p>
-            </div>
-            <div class="tech-card">
-                <h3>Methodologies</h3>
-                <span class="badge">EDA</span>
-                <span class="badge">Predictive Modeling</span>
-                <span class="badge">Data Pipelines</span>
-                <span class="badge">ML Workflows</span>
-                <p>End-to-end project execution from data ingestion to insight delivery.</p>
-            </div>
-        </div>
-    </section>
+---
 
-    <section>
-        <h2>🚀 Featured Projects</h2>
-        
-        <div class="project">
-            <h3>🧠 Cardiovascular Disease Risk Prediction</h3>
-            <p><strong>Tech:</strong> Python, Scikit-learn, Pandas, Matplotlib</p>
-            <ul>
-                <li>Engineered features and cleaned clinical data (heart.csv) to identify critical risk indicators</li>
-                <li>Built and compared multiple classification models (Logistic Regression, Random Forest, SVM)</li>
-                <li>Implemented a reusable ML pipeline for preprocessing, training, and evaluation</li>
-                <li>Achieved model accuracy of ~87% in predicting cardiovascular risk</li>
-            </ul>
-        </div>
+## 🎯 About Me
 
-        <div class="project">
-            <h3>📈 Sales Performance Analysis & Forecasting</h3>
-            <p><strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib</p>
-            <ul>
-                <li>Conducted EDA on sales data to identify key performance trends and outliers</li>
-                <li>Developed a regression model to forecast quarterly sales with an R² score of 0.82</li>
-                <li>Created interactive dashboards to visualize sales by region and product category</li>
-                <li>Delivered strategic recommendations that identified a 15% underperforming product line</li>
-            </ul>
-        </div>
+I'm a data-focused IT student passionate about transforming raw data into actionable intelligence. I specialize in building end-to-end data pipelines—from cleaning and exploration to predictive modeling and visualization. My work centers on applying statistical methods and machine learning to solve real-world problems with clarity and impact.
 
-        <div class="project">
-            <h3>📊 Multi-Dataset Analysis: Kaggle & Retail Analytics</h3>
-            <p><strong>Tech:</strong> Python, Pandas, Data Wrangling</p>
-            <ul>
-                <li>Processed and merged multi-year Kaggle survey data (2017–2021) for trend analysis</li>
-                <li>Cleaned and prepared Online Retail, Amazon Sales, and Titanic datasets for modeling</li>
-                <li>Uncovered demographic insights, including identification of a majority respondent segment (52.4%)</li>
-                <li>Automated data validation scripts to ensure consistency across diverse data sources</li>
-            </ul>
-        </div>
-    </section>
+**📍 Currently seeking:** Data Analyst, Business Intelligence, or Machine Learning Internship roles.
 
-    <section>
-        <h2>💼 Professional Experience</h2>
-        <div class="project">
-            <h3>Data Analytics Intern – Elevvo (08/2025 – 09/2025)</h3>
-            <ul>
-                <li>Preprocessed large-scale survey and retail datasets using Pandas for exploratory analysis</li>
-                <li>Structured machine learning workflows with Scikit-learn, implementing data splitting and pipeline creation</li>
-                <li>Conducted data validation and generated foundational insights that directed research initiatives</li>
-            </ul>
-        </div>
-        <div class="project">
-            <h3>Python Development Intern – CodeAlpha (07/2024 – 10/2024)</h3>
-            <ul>
-                <li>Developed data-focused Python scripts and contributed to analytical project modules</li>
-                <li>Utilized Git for version control and collaborative project management</li>
-                <li>Gained proficiency in core data science libraries and reproducible workflow practices</li>
-            </ul>
-        </div>
-    </section>
+---
 
-    <section>
-        <h2>📜 Certifications</h2>
-        <ul>
-            <li><strong>Machine Learning Specialization</strong> – eHunar | Hunarmand Kamyab Jawan Program</li>
-            <li><strong>Data Analytics Internship</strong> – Elevvo</li>
-            <li><strong>Python Programming</strong> – CodeAlpha</li>
-            <li><strong>PTE Academic</strong> – Score: 63 (CEFR B2)</li>
-        </ul>
-    </section>
+## 🛠️ Technical Skills
 
-    <footer>
-        <p>📧 <strong>Contact:</strong> muzammilkhan.kj@gmail.com </p>
-        <p>🔗 <strong>LinkedIn:</strong> linkedin.com/in/muzammil-kj | 🐙 <strong>GitHub:</strong> github.com/yourusername</p>
-        <p>© 2024 Muzammil Khan. Portfolio built with HTML/CSS.</p>
-    </footer>
-</body>
-</html>
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| **Methodologies** | EDA • Predictive Modeling • Data Pipelines • ML Workflows • Data Wrangling • Statistical Analysis |
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 **Cardiovascular Disease Risk Prediction**
+*Python | Scikit-learn | Pandas | Matplotlib*
+
+- Engineered features and cleaned clinical data (`heart.csv`) to identify critical risk indicators
+- Built and compared multiple classification models (Logistic Regression, Random Forest, SVM)
+- Implemented a reusable ML pipeline for preprocessing, training, and evaluation
+- **Achieved:** ~87% model accuracy in predicting cardiovascular risk
+
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/cardio-project)
+
+### 📈 **Sales Performance Analysis & Forecasting**
+*Python | Pandas | Scikit-learn | Matplotlib*
+
+- Conducted EDA on sales data to identify key performance trends and outliers
+- Developed a regression model to forecast quarterly sales with **R² score of 0.82**
+- Created interactive visualizations to analyze sales by region and product category
+- **Delivered** strategic recommendations identifying a 15% underperforming product line
+
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/sales-analysis)
+
+### 📊 **Multi-Dataset Analysis: Kaggle & Retail Analytics**
+*Python | Pandas | Data Wrangling*
+
+- Processed and merged multi-year Kaggle survey data (2017–2021) for trend analysis
+- Cleaned and prepared Online Retail, Amazon Sales, and Titanic datasets for modeling
+- Uncovered demographic insights, including identification of a majority respondent segment (52.4%)
+- Automated data validation scripts to ensure consistency across diverse data sources
+
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/kaggle-analysis)
+
+---
+
+## 💼 Professional Experience
+
+### **Data Analytics Intern** | *Elevvo* | *Aug 2025 – Sep 2025*
+- Preprocessed large-scale survey and retail datasets using Pandas for exploratory analysis
+- Structured machine learning workflows with Scikit-learn, implementing data splitting and pipeline creation
+- Conducted data validation and generated foundational insights that directed research initiatives
+
+### **Python Development Intern** | *CodeAlpha* | *Jul 2024 – Oct 2024*
+- Developed data-focused Python scripts and contributed to analytical project modules
+- Utilized Git for version control and collaborative project management
+- Gained proficiency in core data science libraries and reproducible workflow practices
+
+---
+
+## 📚 Education & Certifications
+
+### **🎓 Education**
+- **Bachelor of Science in Information Technology**  
+  *National University of Modern Languages (NUML)* | *2022 – 2026*  
+  Current CGPA: **3.52/4.0**  
+  *Relevant Coursework:* Data Analysis, Machine Learning, Database Systems, Statistics
+
+### **📜 Certifications**
+- **Machine Learning Specialization** – eHunar | Hunarmand Kamyab Jawan Program
+- **Data Analytics Internship** – Elevvo
+- **Python Programming** – CodeAlpha
+- **PTE Academic** – Score: 63 (CEFR B2)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzamil-kj&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-kj&layout=compact&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-muzammilkhan.kj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-kj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muzamil-kj.github.io)
+
+*📞 Phone: +92 318 5044022*
+
+---
+
+⭐ *From [muzamil-kj](https://github.com/muzamil-kj)*
