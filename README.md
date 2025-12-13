@@ -102,7 +102,7 @@ I'm a data-focused IT student passionate about transforming raw data into action
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-kj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muzamil-kj.github.io)
 
-*📞 Phone: +92 318 5044022*
+*muzammilkhan.kj@gmail.com*
 
 ---
 
