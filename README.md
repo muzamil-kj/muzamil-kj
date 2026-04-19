@@ -100,7 +100,7 @@ I'm a data-focused IT student passionate about transforming raw data into action
 
 [![Email](https://img.shields.io/badge/Email-muzammilkhan.kj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-kj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muzamil-kj.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3d-portfolio-omega-jet.vercel.app/)
 
 *muzammilkhan.kj@gmail.com*
 
