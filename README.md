@@ -1,15 +1,18 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Muzammil%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,100:181717&amp;height=200&amp;section=header&amp;text=Muzammil%20Khan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20AI%20Agent%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+
 <a href="https://github.com/muzamil-kj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;Final+Year+Project%3A+LifeSync+(NUML+Nexus+2025+Finalist)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;Final+Year+Project%3A+LifeSync+(NUML+Nexus+2025+Finalist)" alt="Typing SVG" />
 </a>
+
 <br/>
 
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-omega-jet.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muzammil-khan-87b185267/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muzammilkhan.kj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzamil-kj)
 
 </div>
