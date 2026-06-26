@@ -115,7 +115,7 @@ A full-stack AI wellness platform combining an LLM-based chatbot, real-time faci
 - 👩‍⚕️ Therapist-facing dashboard for reviewing AI-generated mental health reports
 - 🔐 Encrypted data storage with full user management and consultation booking
 
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj/LifesyncKhan.git)
 
 ---
 
@@ -130,29 +130,7 @@ Binary classification system predicting heart disease presence from a 303-patien
 - 📈 Evaluated with Confusion Matrix, ROC Curve — **Precision 81% · Recall 89% · F1-Score 85%**
 - 🧩 Identified `sex` and `thal` as the strongest negative predictors, `cp` (chest pain type) as the strongest positive predictor
 
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj)
-
----
-
-### 📈 Sales Performance Analysis & Forecasting
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
-
-- Conducted EDA on sales data to surface performance trends and outliers
-- Built a regression model forecasting quarterly sales — **R² = 0.82**
-- Delivered strategic recommendations flagging a **15% underperforming product line**
-
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj)
-
----
-
-### 📊 Multi-Dataset Analysis: Kaggle & Retail Analytics
-`Python` `Pandas` `Data Wrangling`
-
-- Merged multi-year Kaggle survey data (2017–2021) for longitudinal trend analysis
-- Cleaned and standardized Online Retail, Amazon Sales, and Titanic datasets for modeling
-- Automated validation scripts to ensure cross-source data consistency
-
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj/cardio_project.git)
 
 ---
 
